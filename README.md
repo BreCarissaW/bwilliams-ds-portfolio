@@ -7,7 +7,7 @@ This repository serves as a hub for my data science and machine learning project
 1. **Project 1: Customer Churn Prediction**
   - Description: Developed a machine learning model to predict customer churn for Lloyds Banking Group Forage project.
   - Technologies: Python, Scikit-learn, Pandas, Matplotlib
-  - [Link to Project](./projects/customer-churn-prediction)
+  - [Link to Project](https://github.com/BreCarissaW/churn-prediction)
 
 2. **Project 2: Mushroom Classification**
   - Description: Built a classification model to identify mushroom species based on various features.
