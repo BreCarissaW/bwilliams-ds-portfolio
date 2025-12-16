@@ -12,7 +12,7 @@ This repository serves as a hub for my data science and machine learning project
 2. **Project 2: Mushroom Classification**
   - Description: Built a classification model to identify mushroom species based on various features.
   - Technologies: Python, Scikit-learn, Pandas, Seaborn
-  - [Link to Project](./projects/mushroom-classification)
+  - [Link to Project](https://github.com/BreCarissaW/mushroom-classification)
 
 3. **Project 3: Student Performance Modeling**
   - Description: Analyzed student performance data to predict academic outcomes using regression techniques.
